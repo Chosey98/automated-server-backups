@@ -6,7 +6,7 @@
 ###################################
 
 # give your script a name
-host=hostname
+host="Chosey"
 
 # what to backup
 backup_files="/var/www/wordpress /var/www/mywebsite /etc"
